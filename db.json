@@ -1,0 +1,135 @@
+{
+  "Allcourse": [
+    {
+      "id": 1,
+      "faculty_name": "Garvit Sir",
+      "category": "Web Development",
+      "course_name": "React JS",
+      "descriptions": "In this React JS tutorial, we will learn the basics of React JS.",
+      "course_time": "2 hours 12 min",
+      "course_price": "1000",
+      "course_img": "https://reactjs.org/logo-og.png",
+      "video_url": "https://www.youtube.com/embed/RGKi6LSPDLU?si=eN9R16PDTTzpMUfG",
+      "video_title": "React JS Tutorial for Beginners | React Tutorial | React JS Course"
+    },
+    {
+      "id": 2,
+      "faculty_name": "Aditi Ma'am",
+      "category": "Web Development",
+      "course_name": "Vue.js",
+      "descriptions": "This Vue.js tutorial covers the core concepts and basics of building dynamic web apps.",
+      "course_time": "1 hour 45 min",
+      "course_price": "900",
+      "course_img": "https://vuejs.org/images/logo.png",
+      "video_url": "https://www.youtube.com/embed/FXpIoQ_rT_c",
+      "video_title": "Vue.js Crash Course | Vue.js Tutorial for Beginners"
+    },
+    {
+      "id": 3,
+      "faculty_name": "John Doe",
+      "category": "Mobile Development",
+      "course_name": "React Native",
+      "descriptions": "Learn how to build mobile apps using React Native in this complete course.",
+      "course_time": "3 hours 30 min",
+      "course_price": "1200",
+      "course_img": "https://reactnative.dev/img/header_logo.svg",
+      "video_url": "https://www.youtube.com/embed/0-S5a0eXPoc",
+      "video_title": "React Native Tutorial for Beginners - Build a Mobile App"
+    },
+    {
+      "id": 4,
+      "faculty_name": "Vivek Sir",
+      "category": "Backend Development",
+      "course_name": "Node.js",
+      "descriptions": "Master Node.js with this tutorial covering backend development and server-side programming.",
+      "course_time": "4 hours 5 min",
+      "course_price": "1100",
+      "course_img": "https://nodejs.org/static/images/logo.svg",
+      "video_url": "https://www.youtube.com/embed/Oe421EPjeBE",
+      "video_title": "Node.js Crash Course | Node.js Tutorial for Beginners"
+    },
+    {
+      "id": 5,
+      "faculty_name": "Ankit Sir",
+      "category": "Web Development",
+      "course_name": "Angular",
+      "descriptions": "Explore the basics of the Angular framework and how to create dynamic single-page apps.",
+      "course_time": "2 hours 20 min",
+      "course_price": "1000",
+      "course_img": "https://angular.io/assets/images/logos/angular/angular.svg",
+      "video_url": "https://www.youtube.com/embed/3qBXWUpoPHo",
+      "video_title": "Angular Full Course | Learn Angular in 2 Hours | Angular Tutorial"
+    },
+    {
+      "id": 6,
+      "faculty_name": "Rohit Sir",
+      "category": "Frontend Development",
+      "course_name": "HTML & CSS",
+      "descriptions": "A comprehensive guide to learning HTML and CSS, the building blocks of web development.",
+      "course_time": "1 hour 30 min",
+      "course_price": "800",
+      "course_img": "https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png",
+      "video_url": "https://www.youtube.com/embed/mU6anWqZJcc",
+      "video_title": "HTML and CSS Crash Course - Build a Website in 1 Hour"
+    },
+    {
+      "id": 7,
+      "faculty_name": "Sarah Williams",
+      "category": "Data Science",
+      "course_name": "Python for Data Science",
+      "descriptions": "Learn Python programming for data analysis and visualization in this detailed course.",
+      "course_time": "5 hours 15 min",
+      "course_price": "1500",
+      "course_img": "https://www.python.org/static/img/python-logo.png",
+      "video_url": "https://www.youtube.com/embed/rfscVS0vtbw",
+      "video_title": "Python for Data Science and Machine Learning Bootcamp"
+    },
+    {
+      "id": 8,
+      "faculty_name": "Michael Smith",
+      "category": "Cloud Computing",
+      "course_name": "AWS Essentials",
+      "descriptions": "An introduction to AWS services and cloud computing fundamentals for beginners.",
+      "course_time": "3 hours",
+      "course_price": "1300",
+      "course_img": "https://d1.awsstatic.com/logos/aws-logo-lockups/powered-by-aws.png",
+      "video_url": "https://www.youtube.com/embed/ulprqHHWlng",
+      "video_title": "AWS Certified Solutions Architect - Full Course"
+    },
+    {
+      "id": 9,
+      "faculty_name": "Emily Brown",
+      "category": "Database Management",
+      "course_name": "SQL for Beginners",
+      "descriptions": "A beginner-friendly course on SQL covering basic queries, database design, and management.",
+      "course_time": "2 hours 50 min",
+      "course_price": "1000",
+      "course_img": "https://www.mysql.com/common/logos/logo-mysql-170x115.png",
+      "video_url": "https://www.youtube.com/embed/HXV3zeQKqGY",
+      "video_title": "SQL Tutorial - Full Database Course for Beginners"
+    },
+    {
+      "id": 10,
+      "faculty_name": "Raj Patel",
+      "category": "Artificial Intelligence",
+      "course_name": "Introduction to Machine Learning",
+      "descriptions": "This course introduces core concepts in machine learning, including supervised learning and neural networks.",
+      "course_time": "6 hours 20 min",
+      "course_price": "1800",
+      "course_img": "https://upload.wikimedia.org/wikipedia/commons/1/1b/TensorFlowLogo.svg",
+      "video_url": "https://www.youtube.com/embed/GwIo3gDZCVQ",
+      "video_title": "Machine Learning Full Course - Learn Machine Learning from Scratch"
+    }
+  ],
+
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
